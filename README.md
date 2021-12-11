@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Databases for Node.js Developers
 This is the repository for the LinkedIn Learning course Databases for Node.js Developers. The full course is available from [LinkedIn Learning][lil-course-url].
 
@@ -61,3 +62,6 @@ _Technology Lead, Developer, Application Architect_
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/daniel-khan?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/databases-for-node-js-developers-2
+=======
+# nosql
+>>>>>>> b151563ae50a337dc1df80e4d023eda8304cecbc
